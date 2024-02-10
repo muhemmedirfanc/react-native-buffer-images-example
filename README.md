@@ -24,28 +24,15 @@ To run this example locally, follow these steps:
 
    ```
 
-3. Install dependencies using npm or yarn:
+3. Install dependencies using npm:
 
    ```bash
-
    npm install
    ```
 
-# or
-
-yarn install
-
-3. Run the application on a simulator or device:
+4. Run the application on a simulator or device:
 
    ```bash
 
    npm run android
    ```
-
-# or
-
-npm run ios
-
-```
-
-```
